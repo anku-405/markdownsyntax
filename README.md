@@ -61,4 +61,4 @@ printf("hello world")
 ## added image
 ![image](https://github.com/anku-405/markdownsyntax/blob/master/img1.jfif)
 ## inserting videos
-[!video original]()](https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ)
+[!video]()](https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ)
