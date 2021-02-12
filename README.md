@@ -40,3 +40,12 @@ __*ece*__
 ```python
 print("hello")
 ```
+### task insert a code of hello in c
+#include <stdio.h>
+void main()
+{
+printf("hello world")
+return 0;
+}
+
+
