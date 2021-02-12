@@ -49,8 +49,11 @@ printf("hello world")
 ```
 ### inserting urls
 [markdown sheet](markdownsyntax/edit/main/README.md)
-- college web site link(https://www.google.com/search?q=kits+web+site+link&oq=kits+web+site+link&aqs=chrome..69i57j33i10i160l2.10290j0j15&sourceid=chrome&ie=UTF-8)
+### college web site link
+[kits](https://www.google.com/search?q=kits+web+site+link&oq=kits+web+site+link&aqs=chrome..69i57j33i10i160l2.10290j0j15&sourceid=chrome&ie=UTF-8)
 []()
-- gmail link(https://www.google.com/search?sxsrf=ALeKk02ZpJoTKLNZGBLauOEVdRwy73xArA:1613110719821&q=gmail+urls+website&spell=1&sa=X&ved=2ahUKEwjHrsDb2ePuAhU6IbcAHdbyBnMQBSgAegQIEBAw&biw=1366&bih=667)
+## gmail link
+[gmail](https://www.google.com/search?sxsrf=ALeKk02ZpJoTKLNZGBLauOEVdRwy73xArA:1613110719821&q=gmail+urls+website&spell=1&sa=X&ved=2ahUKEwjHrsDb2ePuAhU6IbcAHdbyBnMQBSgAegQIEBAw&biw=1366&bih=667)
 []()
-github(https://github.com/anku-405/github1)
+##github
+[github](https://github.com/anku-405/github1)
