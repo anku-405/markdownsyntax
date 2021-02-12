@@ -60,3 +60,5 @@ printf("hello world")
 
 ## added image
 ![image](https://github.com/anku-405/markdownsyntax/blob/master/img1.jfif)
+## inserting videos
+[!video original](https://www.google.com/search?sxsrf=ALeKk03JQUISQM8QqYNGROOzekWD3XMYQQ%3A1613118164645&ei=1DomYNbqJoTyrAHotZTAAg&q=youtube+videos&oq=youtube&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwA1AAWABg0C9oAXACeACAAfAFiAHwBZIBAzYtMZgBAKoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz)
