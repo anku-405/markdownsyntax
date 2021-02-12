@@ -57,3 +57,6 @@ printf("hello world")
 []()
 ##github
 [github](https://github.com/anku-405/github1)
+
+## added image
+![image](https://github.com/anku-405/markdownsyntax/blob/master/img1.jfif)
